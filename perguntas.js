@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é bloco de código que executa alguma tarefa'
+    'Matemática',
+    'Quantas casas decimais tem o número pi?',
+    'ele tem infinitas casas decimais '
 )
 
 criaCartao(
