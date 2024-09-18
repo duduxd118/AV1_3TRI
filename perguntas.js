@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'conhecimento gerais',
+    'De onde é a invenção do chuveiro elétrico?',
+    'A invenção do chuveriro eletrico foi no brasil'
 )
 
 criaCartao(
